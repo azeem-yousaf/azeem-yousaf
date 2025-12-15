@@ -1,33 +1,64 @@
-# Hi 👋 I'm Azzy  
-**Senior / Staff Software Engineer** (7+ yrs)  
-Delivering scalable systems at Newpark Solutions  
+# Hi, I’m Azeem  
+**Senior Software Engineer** | Full-Stack  
+C#, .NET, SQL Server, AWS, React
 
 ---
 
 ## 👨‍💻 About Me
-I build backend platforms and distributed systems with a focus on reliability, performance, and clean architecture.
+Senior Software Engineer with 7+ years of experience building and modernising production systems.  
+I focus on **scalable backend platforms**, **clean architecture**, and **cost-efficient cloud solutions**, while also delivering modern, performant front-end experiences.
+
+Currently working at **Newpark Solutions**, contributing to large-scale systems in the car-parking / ANPR domain.
 
 ---
 
-## 🛠 Core Skills
+## 🧠 Core Expertise
+- Designing and maintaining **enterprise-grade backend systems**
+- Migrating **legacy .NET Framework** systems to **modern .NET**
+- Building **high-throughput APIs** and data pipelines
+- Delivering **clean, maintainable full-stack solutions**
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
 - **Languages:** C#, SQL  
-- **Frameworks:** .NET (Core & Framework)  
-- **Cloud / DevOps:** AWS, Docker  
-- **Databases:** SQL Server  
+- **Frameworks:** .NET, ASP.NET Core  
+- **Data Access:** Dapper, Entity Framework  
+- **Databases:** SQL Server, PostgreSQL  
+
+### Frontend
+- **React**
+- **Tailwind CSS**
+- Modern component-based UI design
+- REST API integration
+
+### Cloud & DevOps
+- **AWS** (EC2, RDS, S3, IAM)
+- Docker
+- CI/CD with GitHub Actions
 
 ---
 
 ## 📌 Featured Work
-### Scalable Platforms
-- **Enterprise ANPR / Car Park Management** – backend APIs + cloud automation
-- **Telemetry & Metrics Platforms** – high-throughput data pipelines
+- 🚗 **Car Park & ANPR Platforms**  
+  Scalable backend systems handling transactions, telemetry, and integrations
+
+- 📊 **Machine & Event Processing Systems**  
+  High-volume data ingestion with performance and reliability in mind
+
+- 🧪 **Architecture & System Design Projects**  
+  Clean architecture, modular services, and production-ready patterns
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeem-yousaf&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeem-yousaf&show_icons=true&count_private=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-yousaf&layout=compact&theme=github_dark)
 
 ---
 
 ## 📫 Connect
-🔗 [LinkedIn](https://linkedin.com/in/azeem-y-4273461b9)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/azeem-y-4273461b9/)
