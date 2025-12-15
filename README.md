@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Azzy  
+**Senior / Staff Software Engineer** (7+ yrs)  
+Delivering scalable systems at Newpark Solutions  
 
-<!--
-**azeem-yousaf/azeem-yousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I build backend platforms and distributed systems with a focus on reliability, performance, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Core Skills
+- **Languages:** C#, SQL  
+- **Frameworks:** .NET (Core & Framework)  
+- **Cloud / DevOps:** AWS, Docker  
+- **Databases:** SQL Server  
+
+---
+
+## 📌 Featured Work
+### Scalable Platforms
+- **Enterprise ANPR / Car Park Management** – backend APIs + cloud automation
+- **Telemetry & Metrics Platforms** – high-throughput data pipelines
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+---
+
+## 📫 Connect
+🔗 [LinkedIn](https://linkedin.com/in/azeem-y-4273461b9)
