@@ -25,7 +25,7 @@ I build backend platforms and distributed systems with a focus on reliability, p
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeem-yousaf&show_icons=true&theme=dark)
 
 ---
 
