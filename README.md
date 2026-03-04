@@ -54,9 +54,9 @@ Currently working at **Newpark Solutions**, contributing to large-scale systems 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azeem-yousaf&show_icons=true&count_private=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azeem-yousaf&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-yousaf&layout=compact&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azeem-yousaf&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
 ---
 
